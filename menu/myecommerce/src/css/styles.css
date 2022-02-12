@@ -1,0 +1,16 @@
+.navbar-app {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.logo {
+    max-width: 75px;
+}
+
+.cart {
+    max-width: 40px;
+}
+
+.navbar-color {
+    background-color: #007894;
+}
